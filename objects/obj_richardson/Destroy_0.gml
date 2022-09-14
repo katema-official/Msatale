@@ -1,0 +1,1 @@
+scr_debris_creation(x,y);

@@ -1,0 +1,5 @@
+problema: i carri armati gialli spawnano a cazzo di cane nella stanza
+e non capisco perché
+ho capito che la base inizia all'inizio del path, o meglio:
+viene disegnata all'inizio ma si comincia a muovere dal centro
+la torre invece è sfanculata, sta un po'sotto e non capisco perché

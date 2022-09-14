@@ -1,0 +1,1 @@
+scr_generate_smoke(x,y);
